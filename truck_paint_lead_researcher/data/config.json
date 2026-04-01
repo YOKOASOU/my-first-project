@@ -1,0 +1,19 @@
+{
+  "max_results_default": 300,
+  "max_results_cap": 1000,
+  "max_queries": 60,
+  "request_timeout_sec": 12,
+  "retry_count": 2,
+  "min_delay_sec": 0.5,
+  "max_delay_sec": 1.2,
+  "user_agent": "TruckPaintLeadResearcher/1.0 (+public-web-research)",
+  "serpapi_key": "",
+  "seed_url_csv_path": "truck_paint_lead_researcher/data/url_seed_sample.csv",
+  "output_dir": "truck_paint_lead_researcher/data/output",
+  "weights": {
+    "sponsor_fit_score": 0.35,
+    "support_intent_score": 0.2,
+    "activity_score": 0.3,
+    "visibility_score": 0.15
+  }
+}

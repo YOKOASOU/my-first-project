@@ -1,0 +1,13 @@
+customtkinter
+requests
+httpx
+beautifulsoup4
+lxml
+pandas
+pydantic
+tenacity
+python-dateutil
+openpyxl
+tldextract
+duckduckgo-search
+pyinstaller
